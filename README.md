@@ -1,9 +1,4 @@
 # The Bouncy Castle Crypto Package For Java
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraFer10)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 [![Build Status](https://travis-ci.org/bcgit/bc-java.svg?branch=master)](https://travis-ci.org/bcgit/bc-java)
 
